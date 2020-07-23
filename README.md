@@ -3,16 +3,29 @@
 物件導向程式語言期末專題 -- 旅遊訂票系統
 
 ## 功能
-
 1. 查詢旅遊行程
 2. 預訂旅遊行程
 3. 查詢訂單
 4. 修改、刪除訂單
 
 ## 使用技術
-
 1. Java GUI
 2. SQLite
 3. CSV、Json 檔案的讀寫
 
 ## 系統執行畫面
+
+1. 初始畫面
+![Imgur Image](https://imgur.com/OqXN5Pc.jpg)
+
+2. 查詢旅遊行程
+![Imgur Image](https://imgur.com/twGxa5m.jpg)
+
+3. 預訂旅遊行程
+![Imgur Image](https://imgur.com/22FqFpn.jpg)
+
+4. 查詢訂單
+![Imgur Image](https://imgur.com/nono8h4.jpg)
+
+5. 修改、刪除訂單
+![Imgur Image](https://imgur.com/RFCWDTq.jpg)
